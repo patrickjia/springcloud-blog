@@ -10,8 +10,7 @@ author: Spring Cloud中国社区
 language: zh-CN
 since: 2015
 timezone: Asia/Shanghai #时区
-#duoshuo_shortname: xujin-hexo-blog.duoshuo.com
-#duoshuo_hotartical: true
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
