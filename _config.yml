@@ -11,7 +11,6 @@ language: zh-CN
 since: 2015
 timezone: Asia/Shanghai #时区
 
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.springcloud.cn
